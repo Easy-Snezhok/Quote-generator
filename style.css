@@ -95,7 +95,7 @@ h1 {
 @media (max-width: 560px) {
     h1 {
         font-size: 24px;
-        margin-top: 50%;
+        margin-top: 70%;
     }
 
     .quote-container {
